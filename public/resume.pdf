@@ -1,0 +1,138 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 3666 >>
+stream
+BT
+52 748 Td
+/F2 16 Tf
+(CHINMAY CHOUDHARI) Tj
+0 -16 Td
+/F2 10.5 Tf
+(Software Development | AI/ML | Generative AI) Tj
+0 -14 Td
+/F1 9.5 Tf
+(Bengaluru, Karnataka, India  |  chinmaychoudhari510@gmail.com) Tj
+0 -13 Td
+/F1 9.5 Tf
+(GitHub: https://github.com/Chinmay-C12331  |  LinkedIn: https://www.linkedin.com/in/chinmay-choudhari/) Tj
+0 -10 Td
+0 -14 Td
+/F2 11 Tf
+(EDUCATION) Tj
+0 -14 Td
+/F1 9.5 Tf
+(Presidency University, Bengaluru - B.Tech in Computer Science and Engineering \(Expected 2028\) | CGPA: 9.27/10) Tj
+0 -8 Td
+0 -14 Td
+/F2 11 Tf
+(TECHNICAL SKILLS) Tj
+0 -13 Td
+/F1 9 Tf
+(Programming: Python \(Intermediate\), C \(Coursework\), Java \(Beginner\), JavaScript & TypeScript \(Project Experience\)) Tj
+0 -13 Td
+/F1 9 Tf
+(Data Science & ML: PyTorch, Deep Learning Fundamentals, Feature Engineering, ONNX \(Prototype/Lab Exposure\)) Tj
+0 -13 Td
+/F1 9 Tf
+(AI & Generative AI: Google Gemini API, Google GenAI SDK, LangChain, RAG, ChromaDB, Hugging Face Embeddings) Tj
+0 -13 Td
+/F1 9 Tf
+(Web Technologies \(Project Exposure\): HTML, CSS, Bootstrap, React, Next.js, Tailwind CSS, Node.js, Streamlit) Tj
+0 -13 Td
+/F1 9 Tf
+(Tools & Platforms: Git, GitHub, Google AI Studio, Google Cloud Console \(OAuth 2.0\), Docker, n8n, Figma, MySQL) Tj
+0 -8 Td
+0 -14 Td
+/F2 11 Tf
+(SELECTED PROJECTS) Tj
+0 -14 Td
+/F2 9.5 Tf
+(1. ScamSniffer - AI Recruitment Fraud and Phishing Inspector \(TypeScript, Node.js, Python, Gemini\)) Tj
+0 -12 Td
+/F1 9 Tf
+(   - Combines Gemini linguistic evidence extraction with a deterministic rule engine for a 0-100% Scam Threat Index.) Tj
+0 -12 Td
+/F1 9 Tf
+(   - Evaluates 6 fraud vectors and supports UNABLE_TO_VERIFY outcomes; documents 24 Node.js and 12 Python tests.) Tj
+0 -14 Td
+/F2 9.5 Tf
+(2. EcoTech PU - Campus Resource Intelligence Dashboard \(TypeScript, React, Next.js, Tailwind CSS, Supabase\)) Tj
+0 -12 Td
+/F1 9 Tf
+(   - Organizes electricity, water, and waste baseline analysis using a Measure -> Detect -> Act -> Verify workflow.) Tj
+0 -12 Td
+/F1 9 Tf
+(   - Uses simulated demonstration data \(not live sensors\); repository documents 59 passing tests.) Tj
+0 -14 Td
+/F2 9.5 Tf
+(3. RAG-Based PDF Chatbot \(Python, Streamlit, LangChain, ChromaDB, Hugging Face Embeddings, Gemini API\)) Tj
+0 -12 Td
+/F1 9 Tf
+(   - Chunks PDFs \(1,000 chars / 200 overlap\), retrieves top-3 chunks from ChromaDB, and generates grounded answers.) Tj
+0 -14 Td
+/F2 9.5 Tf
+(4. AI-Based Password Strength Prediction - Research Prototype \(Python, PyTorch, Feature Engineering, ONNX\)) Tj
+0 -12 Td
+/F1 9 Tf
+(   - Hybrid 2-layer BiLSTM with attention pooling + 22-feature MLP branch and ONNX INT8 export \(synthetic data only\).) Tj
+0 -8 Td
+0 -14 Td
+/F2 11 Tf
+(EXPERIENCE) Tj
+0 -14 Td
+/F2 9.5 Tf
+(Web Development Intern - InAmigos Foundation \(May 13-26, 2026 | 14-day internship\)) Tj
+0 -12 Td
+/F1 9 Tf
+(   - Improved NGO awareness webpage content, analysed UI/UX flows, and designed Figma layouts for donations/volunteers.) Tj
+0 -12 Td
+/F1 9 Tf
+(   - Applied HTML, CSS, Bootstrap, and AI-assisted frontend workflows to refine campaign and impact showcase layouts.) Tj
+0 -8 Td
+0 -14 Td
+/F2 11 Tf
+(ACHIEVEMENTS, HACKATHONS & WORKSHOPS) Tj
+0 -13 Td
+/F1 9 Tf
+(- Second Place: Tech Tambola - Technopia, Presidency University \(January 2026, two-person team\)) Tj
+0 -12 Td
+/F1 9 Tf
+(- PromptWars AI Challenge \(GEN AI CLUB & Hack2Skill\): Developed ScamSniffer recruitment fraud inspector) Tj
+0 -12 Td
+/F1 9 Tf
+(- Build with Trea Hackathon \(Team Dark Pulse\): Contributed to team University Face Attendance System) Tj
+0 -12 Td
+/F1 9 Tf
+(- Workshops & Bootcamps: AWS Core Skills Bootcamp \(Sept 1, 2026, Participation\) | MCP Mega Workshop \(NxtWave, Completed\)) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4113
+%%EOF

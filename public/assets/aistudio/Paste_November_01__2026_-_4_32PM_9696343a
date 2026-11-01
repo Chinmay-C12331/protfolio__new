@@ -1,0 +1,1185 @@
+# MASTER BUILD PROMPT — CHINMAY CHOUDHARI 3D ANIME-INSPIRED DEVELOPER PORTFOLIO
+
+Act as a world-class creative developer, senior frontend engineer, 3D web developer, UI/UX designer, animation specialist and technical portfolio strategist.
+
+Build a complete, premium, highly interactive, responsive personal developer portfolio website for Chinmay Choudhari.
+
+This is not a generic portfolio template.
+
+I want a distinctive, professional, cinematic, anime-inspired 3D portfolio that demonstrates my interests in software engineering, artificial intelligence, machine learning and generative AI.
+
+The experience should combine:
+
+- High-quality 3D visuals.
+- An original anime-inspired developer character.
+- Smooth and meaningful animations.
+- Interactive 3D elements.
+- Modern futuristic UI.
+- Premium typography.
+- Attractive project case studies.
+- Excellent mobile responsiveness.
+- Strong accessibility and performance.
+- Clear professional presentation.
+
+IMPORTANT: Do not only produce a mockup, screenshot or written proposal. Actually build the complete, working website in the Google AI Studio project.
+
+Do not stop after implementing the hero section. Implement every section, interaction and responsive layout described below.
+
+---
+
+# 1. PERSONAL BRAND AND POSITIONING
+
+Name: Chinmay Choudhari
+
+Professional positioning:
+
+Computer Science undergraduate building software applications and AI-powered solutions.
+
+My three career interests are:
+
+1. Software Development Engineering (SDE)
+2. Artificial Intelligence and Machine Learning (AI/ML)
+3. Generative AI Engineering (GenAI)
+
+I am currently pursuing B.Tech in Computer Science and Engineering at Presidency University, Bengaluru.
+
+Academic details:
+- CGPA: 9.27/10
+- Expected graduation: 2028
+
+The website must communicate that I am an undergraduate developer with practical project experience, not an experienced senior engineer.
+
+Personal brand statement:
+
+"Building intelligent software. Exploring the future of AI."
+
+Alternative hero headline:
+
+"Engineering Ideas Into Intelligent Experiences."
+
+Supporting description:
+
+"I'm a Computer Science undergraduate interested in building useful software, intelligent AI applications and practical solutions through technology."
+
+Use clear and natural professional English. Avoid exaggerated marketing language.
+
+Do not call me an AI expert, senior software engineer, ML specialist or full-stack expert.
+
+---
+
+# 2. DESIGN CONCEPT AND VISUAL IDENTITY
+
+Create a visual identity that feels like a combination of:
+
+- Premium anime-inspired 3D art.
+- Futuristic developer workspace.
+- Modern AI laboratory.
+- Cinematic dark technology interface.
+- Professional software engineer portfolio.
+
+Visual inspiration should be original. Do not recreate an existing anime character, copyrighted game character, celebrity or another portfolio website.
+
+## Main theme
+
+Use a deep, cinematic dark theme.
+
+Suggested colors:
+
+- Background: near-black / midnight navy.
+- Primary accent: electric cyan.
+- Secondary accent: violet.
+- Supporting accent: soft blue.
+- Text: white and cool light grey.
+- Subtle borders: transparent grey-blue.
+
+Use restrained gradients and subtle glowing highlights.
+
+Avoid excessive neon, rainbow gradients, bright cartoon colors, childish illustrations or cluttered backgrounds.
+
+## Typography
+
+Use a modern typography combination:
+
+- Headings: Space Grotesk or similar.
+- Body: Inter or similar.
+- Code and technical labels: JetBrains Mono or similar.
+
+Use readable type sizes and good spacing.
+
+The visual hierarchy must be strong.
+
+## Website personality
+
+The website should feel:
+
+- Intelligent.
+- Creative.
+- Technically capable.
+- Modern.
+- Minimal.
+- Premium.
+- Confident without being arrogant.
+
+It should appeal to engineering recruiters, technical founders, internship coordinators and developers.
+
+---
+
+# 3. MAIN HERO — THE SIGNATURE 3D EXPERIENCE
+
+The hero section is the most important visual element.
+
+Create a full-screen or near-full-screen opening section.
+
+Desktop layout:
+
+- Left side: name, headline, professional introduction and CTA buttons.
+- Right side: large interactive 3D anime-inspired developer scene.
+
+On mobile, reorganize the layout vertically and ensure the 3D scene does not push essential information too far down the page.
+
+## 3D anime character
+
+Create an original, stylized 3D anime-inspired young developer character.
+
+Character concept:
+
+- Young male developer.
+- Dark, slightly messy hairstyle.
+- Modern casual hoodie.
+- Professional but approachable appearance.
+- Sitting or standing near a futuristic workstation.
+- Surrounded by subtle holographic development panels.
+- Anime-inspired facial design.
+- High-quality 3D proportions.
+- Refined lighting and shading.
+
+The character must be an original fictional avatar, not a claim that it is a photorealistic image of me.
+
+Do not use a real person's photograph.
+
+If no external 3D model is provided, create the character using procedural Three.js geometry or original code-generated shapes. Do not leave a broken model placeholder.
+
+## Scene environment
+
+Create a sophisticated workstation environment:
+
+- Floating holographic displays.
+- Minimal code panels.
+- Abstract AI neural network visuals.
+- Floating geometric particles.
+- Subtle technology symbols.
+- Soft ambient lighting.
+- Depth and perspective.
+- Small cyan and violet light sources.
+
+Include carefully designed floating labels such as:
+
+PYTHON
+GEMINI
+AI / ML
+GENAI
+SOFTWARE ENGINEERING
+RAG
+
+Keep these elements subtle and aesthetically controlled.
+
+Do not fill the screen with excessive programming symbols.
+
+## 3D interactions
+
+Add the following:
+
+1. Character responds subtly to mouse movement.
+2. The holographic environment has gentle floating motion.
+3. Floating technology cards have subtle parallax.
+4. Mouse movement creates a restrained depth effect.
+5. Dragging can rotate the scene within controlled limits.
+6. Clicking selected holographic elements reveals a small technical label or scrolls to the relevant website section.
+7. Character has a subtle idle animation.
+8. Add a soft lighting response to interaction.
+9. Add a gentle particle movement system.
+
+The 3D scene must remain decorative and must never block important navigation or text.
+
+Avoid aggressive camera movement, excessive spinning, distracting flashing or constant heavy particle effects.
+
+## 3D implementation
+
+Prefer:
+
+- Three.js.
+- React Three Fiber.
+- @react-three/drei.
+- CSS 3D transforms where appropriate.
+- Framer Motion for UI animation.
+
+Use procedural geometry if a ready-to-use model is unavailable.
+
+Keep the implementation modular.
+
+The 3D scene should be a separate component that can be loaded lazily.
+
+Provide:
+- WebGL fallback.
+- Static visual fallback.
+- Reduced-motion mode.
+- Mobile-optimized rendering.
+- Graceful handling of model or rendering failures.
+
+Do not make the website depend on downloading a large external model to display its essential content.
+
+---
+
+# 4. HERO CONTENT AND INTERACTIONS
+
+Display:
+
+CHINMAY CHOUDHARI
+
+Main heading:
+
+"Engineering Ideas Into Intelligent Experiences."
+
+Subtitle:
+
+"Computer Science Undergraduate | Software Development | AI/ML | Generative AI"
+
+Description:
+
+"I build practical software and AI-powered applications, exploring the intersection of software engineering, intelligent systems and emerging technologies."
+
+Add a small availability/status label:
+
+"Open to Internship Opportunities"
+
+Only display it as a statement of interest, not as a claim of an existing job offer.
+
+CTA buttons:
+
+1. Explore My Projects
+2. About Me
+3. Contact Me
+4. View Resume
+
+Resume behavior:
+
+Create the Resume button only when an actual PDF file has been supplied to the project. Use a configurable local path such as /resume.pdf.
+
+If no resume file exists, do not show a button with a broken download link.
+
+Add a subtle scroll-down indicator.
+
+The hero should immediately tell visitors:
+- Who I am.
+- What I build.
+- What areas I work in.
+- What to explore next.
+
+---
+
+# 5. NAVIGATION
+
+Create a floating or sticky navigation bar.
+
+Navigation items:
+
+- Home
+- About
+- Skills
+- Projects
+- Experience
+- Achievements
+- Contact
+
+Requirements:
+
+- Transparent dark navigation.
+- Subtle blur effect.
+- Active section indicator.
+- Smooth scrolling.
+- Compact mobile navigation.
+- Animated mobile menu.
+- Keyboard accessible controls.
+
+Add my initials "CC" as a simple brand mark.
+
+Do not use oversized navigation elements.
+
+---
+
+# 6. ABOUT ME SECTION
+
+Section heading:
+
+"Beyond the Code"
+
+Write an attractive but genuine introduction.
+
+Content:
+
+"I'm Chinmay Choudhari, a Computer Science and Engineering undergraduate at Presidency University, Bengaluru. I enjoy building practical software applications and exploring how artificial intelligence can solve real problems.
+
+My current interests span software development, machine learning and generative AI. Through academic projects, hackathons and hands-on experiments, I've worked with AI APIs, document retrieval systems, automation workflows and web applications.
+
+I'm continuously strengthening my programming foundations, problem-solving ability and understanding of software engineering."
+
+Display the following information as clean profile cards:
+
+- Degree: B.Tech Computer Science and Engineering.
+- University: Presidency University.
+- Location: Bengaluru, Karnataka, India.
+- CGPA: 9.27/10.
+- Graduation: 2028.
+- Current Learning: Data Structures and Algorithms.
+
+Add a small interactive career-interest section with three cards:
+
+A. Software Engineering
+Building practical applications and learning software engineering fundamentals.
+
+B. AI / Machine Learning
+Exploring deep learning, model architectures, feature engineering and inference.
+
+C. Generative AI
+Building applications using LLMs, embeddings, retrieval pipelines and AI integrations.
+
+Do not make unverified statements about industry experience or professional mastery.
+
+---
+
+# 7. TECHNICAL SKILLS SECTION
+
+Section heading:
+
+"My Technical Toolkit"
+
+Display skills as organized interactive cards or chips.
+
+Do not use circular skill meters, fake percentages, progress bars or proficiency scores.
+
+Do not suggest that I have advanced knowledge of every listed technology.
+
+## Programming
+
+- Python — Intermediate.
+- C.
+- Java — Beginner.
+- JavaScript — Project experience.
+- TypeScript — Project experience.
+
+## AI, Machine Learning and Generative AI
+
+- Google Gemini API.
+- Google GenAI SDK.
+- LangChain.
+- RAG.
+- Embeddings.
+- ChromaDB.
+- Hugging Face Embeddings.
+- PyTorch.
+- ONNX.
+- Deep Learning Fundamentals.
+- Feature Engineering.
+- LLM Integration.
+
+## Web Technologies — Project Exposure
+
+- HTML.
+- CSS.
+- Bootstrap.
+- React.
+- Next.js.
+- Tailwind CSS.
+- Node.js.
+- Streamlit.
+
+IMPORTANT: I have used JavaScript, React, Next.js and Tailwind CSS in projects, but I do not claim deep proficiency in these frameworks. Display them as technologies used in projects or project exposure.
+
+## Tools and Platforms
+
+- Google AI Studio.
+- Google Cloud Console.
+- Gemini.
+- Claude.
+- n8n.
+- Docker.
+- Git.
+- GitHub.
+- Figma.
+- MySQL.
+- OAuth 2.0.
+
+I have experience using AI models and platforms, AI-assisted development, API integration and Google authentication/OAuth configuration.
+
+Do not describe me as an expert in Google Cloud architecture or identity security.
+
+## Current Learning
+
+Add a small, visually distinct section:
+
+"Currently Strengthening"
+
+- Data Structures and Algorithms.
+- Problem-solving.
+- Object-Oriented Programming.
+- Software Engineering Fundamentals.
+- Deeper understanding of web development.
+
+Make the section interactive but professional.
+
+---
+
+# 8. FEATURED PROJECTS — MOST IMPORTANT CONTENT SECTION
+
+Section heading:
+
+"Selected Projects"
+
+Subtitle:
+
+"Things I've built, explored and learned through hands-on development."
+
+Create visually attractive project cards with:
+
+- Project title.
+- Project category.
+- Short technical description.
+- Technologies.
+- GitHub repository link.
+- View Details button.
+- Interactive case-study modal or expandable panel.
+
+The project cards should have subtle hover tilt, depth and lighting.
+
+Avoid excessive 3D effects that make the project titles difficult to read.
+
+Add functional category filters:
+
+- All Projects.
+- Software Engineering.
+- AI / ML.
+- Generative AI.
+- Automation.
+
+Projects must be filterable using their actual categories.
+
+Display all the following projects.
+
+## PROJECT 1 — ScamSniffer
+
+Title:
+
+ScamSniffer — AI Recruitment Fraud and Phishing Inspector
+
+Category:
+AI / GenAI / Software Engineering / Cybersecurity.
+
+GitHub:
+https://github.com/Chinmay-C12331/ScamSniffer_
+
+Technologies:
+TypeScript, Node.js, Python, Google Gemini, Google GenAI SDK.
+
+Description:
+
+"An AI-powered application that inspects job offers, recruiter messages and recruitment URLs for potential fraud indicators."
+
+Features:
+- Evaluates six recruitment fraud vectors.
+- Uses Gemini to extract linguistic evidence.
+- Uses a deterministic rule engine to calculate an auditable 0–100% Scam Threat Index.
+- Produces evidence-backed risk findings.
+- Avoids fabricating unavailable domain metadata.
+- Supports UNABLE_TO_VERIFY outcomes when information cannot be established.
+
+Testing information:
+The repository README documents 24 passing Node.js tests and 12 passing Python tests.
+
+Display this as a repository-documented testing result, not a claim that the tests were independently executed during portfolio creation.
+
+Case-study presentation:
+
+Problem:
+Recruitment fraud can use convincing job offers, messages and links to mislead job seekers.
+
+Approach:
+Combine LLM-based linguistic evidence extraction with deterministic scoring.
+
+Engineering consideration:
+Separate language understanding from final risk calculation to make the scoring auditable.
+
+Do not claim guaranteed detection or complete fraud prevention.
+
+## PROJECT 2 — EcoTech PU
+
+Title:
+
+EcoTech PU — Campus Resource Intelligence Dashboard
+
+Category:
+Software Engineering / Full-Stack Project / Sustainability.
+
+GitHub:
+https://github.com/Chinmay-C12331/EcoTech_PU
+
+Technologies:
+TypeScript, React, Next.js, Tailwind CSS, Supabase, Vercel.
+
+Description:
+
+"A campus resource intelligence dashboard designed to help investigate potential inefficiencies across electricity, water and waste."
+
+Features:
+- Electricity baseline analysis.
+- After-hours energy investigation.
+- Water consumption analysis.
+- Waste category monitoring.
+- Explainable prioritization.
+- Measure → Detect → Act → Verify corrective-action workflow.
+
+Testing:
+The repository documents 59 passing tests and a successful build. Attribute this to the repository documentation.
+
+IMPORTANT DATA LIMITATION:
+
+This project uses simulated demonstration data.
+
+It is not connected to actual live campus sensors.
+
+The displayed deviations are investigation triggers, not proof of real-world leaks, energy losses or waste.
+
+Clearly state this in the project detail view.
+
+Do not invent real campus savings, deployed sensor results or financial impact.
+
+Case-study presentation:
+
+Problem:
+Campus resource consumption can be difficult to investigate without organized monitoring and baseline comparisons.
+
+Approach:
+Create a dashboard that organizes resource data, identifies deviations and supports explainable corrective actions.
+
+Engineering value:
+Data-driven workflows, dashboard architecture, analysis logic and user-facing visualizations.
+
+## PROJECT 3 — RAG-Based PDF Chatbot
+
+Title:
+
+RAG-Based PDF Chatbot
+
+Category:
+Generative AI / AI Engineering.
+
+GitHub:
+https://github.com/Chinmay-C12331/RAG
+
+Technologies:
+Python, Streamlit, LangChain, ChromaDB, Hugging Face Embeddings, Google Gemini API.
+
+Description:
+
+"A document question-answering application that uses Retrieval-Augmented Generation to answer questions from uploaded PDFs."
+
+Features:
+- PDF upload and processing.
+- Text extraction and chunking.
+- 1,000-character chunks with 200-character overlap.
+- Hugging Face sentence-transformer embeddings.
+- ChromaDB vector storage.
+- Top-three relevant chunk retrieval.
+- Gemini answer generation based on retrieved document context.
+- Source-page display.
+- Instructions for indicating when an answer is absent from the document.
+
+Case-study presentation:
+
+Problem:
+General language models may generate information that is not contained in a document.
+
+Approach:
+Retrieve relevant document chunks and provide them as context to the model.
+
+Engineering value:
+Document processing, embedding generation, vector retrieval and grounded LLM response generation.
+
+Do not claim conversational memory, multi-agent workflows or features not implemented in the repository.
+
+## PROJECT 4 — AI-Based Password Strength Prediction
+
+Title:
+
+AI-Based Password Strength Prediction — Research Prototype
+
+Category:
+AI / Machine Learning / Deep Learning.
+
+GitHub:
+https://github.com/Chinmay-C12331/AI-Based_Password_Strength_Prediction
+
+Technologies:
+Python, PyTorch, Deep Learning, Feature Engineering, ONNX.
+
+Description:
+
+"A hybrid neural and pattern-aware password guessability research prototype."
+
+Documented architecture:
+- Two-layer bidirectional LSTM.
+- Additive attention pooling.
+- MLP branch using 22 engineered pattern features.
+- Asymmetric Huber loss.
+- Data preparation and training pipeline.
+- ONNX INT8 export for client-side inference.
+
+IMPORTANT LIMITATION:
+
+The pipeline has been validated on synthetic demonstration data only.
+
+Do not claim real-world accuracy, production-grade security, real-data validation or performance benchmarks.
+
+Clearly label it as a research prototype.
+
+Case-study presentation:
+
+Problem:
+Simple password strength assessments may overlook password structure and guessability patterns.
+
+Approach:
+Explore a hybrid neural and engineered-feature architecture.
+
+Engineering value:
+Deep learning architecture, feature engineering, evaluation pipeline design and model export.
+
+## PROJECT 5 — AI Daily Intelligence and Email Assistant
+
+Title:
+
+AI Daily Intelligence and Email Assistant
+
+Category:
+Generative AI / Automation.
+
+GitHub:
+https://github.com/Chinmay-C12331/ai-daily-intelligence-email-assistant
+
+Technologies:
+n8n, Google Gemini, RSS, Gmail, OAuth 2.0, Docker, WSL 2.
+
+Description:
+
+"An automated workflow that collects, filters, summarizes and delivers relevant AI and technology news through email."
+
+Features:
+- Multiple RSS feed inputs.
+- Article merging and URL deduplication.
+- Recency-based filtering.
+- Persistent processed-article history.
+- Gemini classification and summarization.
+- HTML daily email briefing.
+- Gmail delivery using OAuth 2.0.
+- Error handling and failure notifications.
+
+Case-study presentation:
+
+Problem:
+Manually following multiple technology and AI news feeds takes time.
+
+Approach:
+Build a repeatable workflow that collects, processes and summarizes relevant articles.
+
+Engineering value:
+Workflow automation, API integration, persistent processing history and automated email delivery.
+
+## Project card interactions
+
+Each card should provide two clear actions:
+
+- GitHub Repository.
+- View Case Study.
+
+The case study should open a polished modal, side panel or dedicated detail route.
+
+Inside the detail view:
+- Overview.
+- Problem.
+- Implementation.
+- Key features.
+- Technology stack.
+- Engineering considerations.
+- Known limitations.
+
+Do not invent missing details.
+
+For repository thumbnails, create elegant abstract UI previews using code and CSS when actual screenshots are unavailable.
+
+Do not label concept illustrations as real application screenshots.
+
+All GitHub links must open the correct repositories in a new tab.
+
+---
+
+# 9. EXPERIENCE SECTION
+
+Section heading:
+
+"Experience & Collaboration"
+
+Display:
+
+Web Development Intern  
+InAmigos Foundation
+
+Duration:
+14-day internship.
+
+Start date:
+10 August.
+
+The internship lasted 14 days. Do not describe it as a months-long role.
+
+The year and end date have not been confirmed. Do not invent them.
+
+Work performed:
+- Developed and improved NGO awareness webpage content.
+- Analysed the NGO website and suggested UI/UX improvements.
+- Designed Figma layouts for donation and volunteer registration features.
+- Explored layouts for impact statistics, campaign showcases and testimonials.
+- Enhanced a portfolio website using AI-assisted development tools and frontend fundamentals.
+- Applied HTML, CSS and Bootstrap concepts.
+
+Present this experience honestly.
+
+Do not invent metrics, client results or business impact.
+
+Use a clean timeline design.
+
+---
+
+# 10. ACHIEVEMENTS AND ACTIVITIES
+
+Section title:
+
+"Beyond Projects"
+
+Display achievements in a clean timeline or interactive cards.
+
+### Second Place — Tech Tambola
+
+Event:
+Technopia, Presidency University.
+
+Date:
+January 2026.
+
+Achievement:
+Second place in Tech Tambola.
+
+Team:
+Two-person team.
+
+### PromptWars AI Challenge
+
+Organized by:
+GEN AI CLUB, Presidency University and Hack2Skill.
+
+Contribution:
+Developed ScamSniffer.
+
+### Build with Trea Hackathon
+
+Team:
+Dark Pulse.
+
+Project:
+University Face Attendance System using face recognition.
+
+Display as a team hackathon contribution, not an individual project.
+
+### AWS Core Skills Bootcamp
+
+Organizer:
+AWS Student Builder Group, Presidency University.
+
+Date:
+1 September 2026.
+
+Participation activity.
+
+Do not call it a professional AWS certification.
+
+### MCP Mega Workshop
+
+Organizer:
+NxtWave CCBP 4.0 Academy.
+
+Completed Model Context Protocol workshop.
+
+Present it as a completed workshop, not a professional certification.
+
+Avoid making this section unnecessarily large.
+
+---
+
+# 11. CURRENT FOCUS SECTION
+
+Create a dedicated section called:
+
+"What I'm Working Toward"
+
+Explain:
+
+"I'm currently strengthening my software engineering foundations while expanding my understanding of machine learning and generative AI."
+
+Create three interactive roadmap cards:
+
+01 — Software Engineering
+- Strengthen Python and programming fundamentals.
+- Practice DSA.
+- Improve problem-solving.
+- Learn software engineering concepts.
+
+02 — AI / Machine Learning
+- Deepen understanding of ML and DL.
+- Work on model architectures and feature engineering.
+- Explore practical model deployment concepts.
+
+03 — Generative AI
+- Build practical LLM applications.
+- Strengthen RAG and embedding concepts.
+- Explore model integration and AI workflows.
+
+Present these as learning goals, not completed achievements.
+
+Use subtle animated progress paths, but do not invent percentages or completion scores.
+
+---
+
+# 12. CONTACT SECTION
+
+Section title:
+
+"Let's Build Something Meaningful."
+
+Description:
+
+"I'm interested in connecting with developers, recruiters, researchers and teams working on software engineering and AI-related opportunities."
+
+Contact information:
+
+Email:
+chinmaychoudhari510@gmail.com
+
+GitHub:
+https://github.com/Chinmay-C12331
+
+LinkedIn:
+https://www.linkedin.com/in/chinmay-choudhari/
+
+Location:
+Bengaluru, Karnataka, India.
+
+Do not publicly display my phone number unless I explicitly request it.
+
+Interactions:
+- Email button opens a prefilled mailto link.
+- Copy email button copies my email and displays a success toast.
+- GitHub opens my profile.
+- LinkedIn opens my profile.
+- All external links should open in new tabs safely.
+
+Do not build a fake contact form that silently discards submissions.
+
+If a contact form is included, implement a genuine working submission mechanism or use a clearly labelled mailto fallback.
+
+No database is needed for contact functionality.
+
+---
+
+# 13. INTERACTIVE DETAILS AND MICRO-ANIMATIONS
+
+Use animation to improve the experience, not distract from the content.
+
+Implement:
+
+- Smooth page navigation.
+- Scroll-triggered section reveals.
+- Subtle 3D hover tilt on project cards.
+- Animated underline effects.
+- Floating technology labels.
+- Gentle background particles.
+- Soft cursor spotlight on desktop.
+- Smooth modal opening and closing.
+- Animated category filters.
+- Small button hover responses.
+- Scroll progress indicator.
+- Back-to-top button.
+- Subtle page transition effects.
+
+Provide meaningful loading and error states.
+
+Never make the website wait through a fake long preloader.
+
+Avoid:
+- Excessive bouncing.
+- Flashing.
+- Aggressive parallax.
+- Constant motion on every element.
+- Difficult-to-read glassmorphism.
+- Fake loading screens.
+- Large animated effects that block scrolling.
+
+---
+
+# 14. MOBILE RESPONSIVENESS
+
+The mobile experience is not optional.
+
+Test and optimize for:
+
+- Desktop.
+- Laptop.
+- Tablet.
+- Standard Android phones.
+- Smaller mobile screens.
+
+Mobile requirements:
+
+- Responsive single-column layout where appropriate.
+- Optimized navigation.
+- Readable typography.
+- Touch-friendly controls.
+- Reduced 3D complexity.
+- Proper image and canvas sizing.
+- No horizontal overflow.
+- No content hidden behind navigation.
+- Good performance on mid-range mobile devices.
+
+The hero section should remain visually attractive even if the mobile browser cannot render WebGL.
+
+On smaller devices, use a static version of the scene or a lightweight CSS alternative.
+
+---
+
+# 15. PERFORMANCE AND ACCESSIBILITY
+
+The 3D visuals must not destroy loading performance.
+
+Requirements:
+
+1. Lazy-load the 3D scene.
+2. Avoid unnecessary rerenders.
+3. Limit particle count.
+4. Use appropriate pixel ratio limits.
+5. Pause animations when the scene is not visible or the tab is inactive.
+6. Provide reduced-motion support.
+7. Provide a fallback if WebGL is unavailable.
+8. Compress and optimize any external images.
+9. Avoid unnecessary dependencies.
+10. Keep the website usable if animation libraries or 3D resources fail.
+
+Accessibility:
+- Semantic HTML.
+- Proper heading hierarchy.
+- Keyboard-accessible navigation.
+- Visible focus states.
+- Appropriate ARIA labels.
+- Sufficient contrast.
+- Descriptive link labels.
+- Meaningful alternative text.
+- Respect prefers-reduced-motion.
+
+Do not rely on color alone to communicate categories or states.
+
+---
+
+# 16. TECHNICAL IMPLEMENTATION
+
+Build the portfolio as a modern React + TypeScript web application in Google AI Studio Build Mode.
+
+Preferred technologies:
+
+Frontend:
+- React.
+- TypeScript.
+- Tailwind CSS or well-organized CSS.
+- Framer Motion.
+- Lucide React icons.
+
+3D:
+- Three.js.
+- React Three Fiber.
+- Drei.
+
+Architecture:
+Use reusable components and a well-organized project structure.
+
+Suggested components:
+
+- Navbar
+- HeroSection
+- DeveloperScene3D
+- AboutSection
+- CareerFocusSection
+- SkillsSection
+- ProjectsSection
+- ProjectCard
+- ProjectCaseStudy
+- ExperienceSection
+- AchievementsSection
+- LearningRoadmap
+- ContactSection
+- Footer
+- BackToTop
+
+Suggested folders:
+
+src/
+  components/
+  sections/
+  data/
+  hooks/
+  assets/
+  styles/
+  types/
+
+Keep project details and profile information in structured data files rather than repeating hardcoded information throughout the UI.
+
+Use appropriate TypeScript interfaces.
+
+Do not put the entire website in one giant component.
+
+Do not use unnecessary backend functionality.
+
+This is primarily a public portfolio website, so:
+
+- No sign-in.
+- No user accounts.
+- No database.
+- No authentication.
+- No unnecessary AI API integration.
+- No exposed API keys.
+
+The website does not need a Gemini API integration to function.
+
+If the website is static, keep it static and simple. Use the AI Studio server runtime only if a genuine feature requires it.
+
+Do not add external services or paid subscriptions unless absolutely necessary.
+
+---
+
+# 17. SEO AND PROFESSIONAL FINISH
+
+Set the page title to:
+
+"Chinmay Choudhari | Software Development, AI/ML & GenAI"
+
+Meta description:
+
+"Explore Chinmay Choudhari's portfolio featuring software development, artificial intelligence, machine learning and generative AI projects."
+
+Implement:
+- Favicon with CC initials.
+- Open Graph metadata.
+- Appropriate page descriptions.
+- Clean URLs if separate project pages are used.
+- Semantic landmarks.
+- Appropriate document title.
+- Basic social sharing metadata.
+
+Do not include fake reviews, fake client testimonials, fake employment history, made-up client logos or fabricated professional metrics.
+
+---
+
+# 18. FINAL QUALITY CHECK
+
+Before declaring the website complete, perform a full review.
+
+Check:
+
+1. All navigation links work.
+2. All project filters work.
+3. All GitHub repository links are correct.
+4. Case-study modals open and close correctly.
+5. Contact links work.
+6. Copy email works.
+7. Resume CTA is hidden if no actual resume PDF exists.
+8. No broken images or 3D model references.
+9. No console errors.
+10. No missing React keys.
+11. No horizontal scrolling on mobile.
+12. 3D scene has a fallback.
+13. Reduced-motion mode works.
+14. Project details contain no unsupported claims.
+15. Internship is described as 14 days starting 10 August.
+16. CGPA is 9.27/10.
+17. Graduation year is 2028.
+18. The mobile navigation works.
+19. All buttons perform the actions their labels promise.
+20. All sections contain real content, not placeholder text.
+
+If a feature does not work, fix it instead of pretending it works.
+
+Do not leave:
+- Lorem ipsum.
+- Dummy project cards.
+- Empty buttons.
+- Fake links.
+- Broken CTAs.
+- Placeholder contact details.
+- Unimplemented animations.
+- Unfinished sections.
+
+---
+
+# 19. VISUAL AND CONTENT PRIORITY
+
+The following priority order must guide the entire design:
+
+1. Professional credibility.
+2. Clear explanation of my projects.
+3. Excellent readability.
+4. Premium visual identity.
+5. Memorable 3D anime-inspired hero.
+6. Meaningful interactions.
+7. Mobile experience.
+8. Performance and accessibility.
+
+The website should not become a 3D experiment with the actual portfolio content pushed into the background.
+
+Make the 3D scene impressive, but make my projects and technical experience the main reason recruiters stay.
+
+---
+
+# 20. FINAL EXECUTION INSTRUCTION
+
+Start building the full website immediately.
+
+Do not respond with only a plan, design suggestions or code snippets.
+
+Implement the complete working experience in the AI Studio project.
+
+First establish the full page architecture and design system, then implement the 3D hero and all content sections, then connect the interactions and responsive behaviors.
+
+After implementation:
+- Run the application.
+- Inspect the live preview.
+- Fix all build errors.
+- Fix visible layout issues.
+- Test major interactions.
+- Test a mobile viewport.
+- Verify all links.
+- Verify the project descriptions against the supplied information.
+
+If a particular advanced visual effect is impractical, create a polished working alternative rather than leaving an unfinished feature.
+
+The final result must feel like a premium personal developer portfolio designed by an experienced creative engineering team.
+
+The visitor should leave with three clear impressions:
+
+1. Chinmay is building real software and AI projects.
+2. Chinmay understands the technologies he lists and is actively improving.
+3. Chinmay has a clear direction toward software engineering, AI/ML and generative AI.
+
+Build it with originality, technical discipline and excellent attention to detail.
