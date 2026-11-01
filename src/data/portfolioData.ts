@@ -26,11 +26,12 @@ export const PERSONAL_INFO = {
   email: 'chinmaychoudhari510@gmail.com',
   githubUrl: 'https://github.com/Chinmay-C12331',
   linkedinUrl: 'https://www.linkedin.com/in/chinmay-choudhari/',
-  resumePath: '/assets/aistudio/Chinmay_Resume_89ac0d46.pdf',
+  portfolioUrl: 'https://chinmay-jc.vercel.app',
+  resumePath: '/assets/aistudio/chinmay-resume_40026351.pdf',
 };
 
 export const ABOUT_SUMMARY =
-  'Computer Science and Engineering undergraduate (CGPA 9.27/10) at Presidency University, Bengaluru with university coursework in AI and Machine Learning and hands-on project experience in Python, LLM integrations and RAG applications. Projects include a Gemini-based scam inspector, a PDF question-answering system, a team campus resource dashboard and a deep learning research prototype. Seeking Software Engineering, AI/ML and Generative AI internships.';
+  'Computer Science and Engineering undergraduate (CGPA 9.27/10) with university coursework in AI and Machine Learning and hands-on project experience in Python, LLM integrations and RAG applications. Projects include a Gemini-based scam inspector, a PDF question-answering system and a deep learning research prototype. Seeking Software Engineering, AI/ML and Generative AI internships.';
 
 export const HOLOGRAPHIC_NODES: HolographicNodeInfo[] = [
   {

@@ -1,0 +1,59 @@
+CHINMAY CHOUDHARI
+Bengaluru, Karnataka, India | +91 8317465866 | chinmaychoudhari510@gmail.com
+LinkedIn: https://www.linkedin.com/in/chinmay-choudhari/ | GitHub: https://github.com/Chinmay-C12331 | Portfolio: https://chinmay-jc.vercel.app
+
+PROFESSIONAL SUMMARY
+Computer Science and Engineering undergraduate (CGPA 9.27/10) with university coursework in AI and Machine Learning and hands-on project experience in Python, LLM integrations and RAG applications. Projects include a Gemini-based scam inspector, a PDF question-answering system and a deep learning research prototype. Seeking Software Engineering, AI/ML and Generative AI internships.
+
+EDUCATION
+Bachelor of Technology, Computer Science and Engineering | Expected Graduation: 2028
+Presidency University, Bengaluru | CGPA: 9.27/10
+Relevant Coursework: Essentials of Artificial Intelligence (completed); Machine Learning (currently studying, theory and laboratory; supervised learning module completed)
+
+TECHNICAL SKILLS
+Languages: Python (Intermediate), C, Java (Beginner), JavaScript and TypeScript (project experience)
+AI/ML and GenAI: Google Gemini API, Google GenAI SDK, LLM Integration, RAG, Embeddings, ChromaDB, LangChain, Hugging Face Embeddings, PyTorch, ONNX, Feature Engineering, Deep Learning fundamentals
+Data Science and ML (coursework and labs): Pandas, scikit-learn, Matplotlib, Seaborn, Supervised Learning fundamentals, Data Preprocessing and Analysis, Data Visualization
+Web (project exposure): HTML, CSS, Bootstrap, React, Next.js, Tailwind CSS, Node.js, Streamlit
+Tools and Platforms: Git, GitHub, Docker, n8n, Figma, MySQL, OAuth 2.0, Google AI Studio, Google Cloud Console (project and API configuration), AI-assisted development (Gemini, Claude)
+Fundamentals: Data Structures and Algorithms (beginner; HackerRank practice in arrays, strings, loops and functions), DBMS, Object-Oriented Programming
+
+EXPERIENCE
+Web Development Intern, InAmigos Foundation | May 13 - 26, 2026
+- Developed and improved NGO awareness webpage content using HTML, CSS and Bootstrap concepts.
+- Analyzed the NGO website and contributed UI/UX improvement suggestions; designed Figma layouts for donation, volunteer registration, impact statistics, campaign showcase and testimonial features.
+- Improved a portfolio website using AI-assisted development tools and frontend fundamentals.
+
+PROJECTS
+ScamSniffer - AI Fake Offer Letter and Phishing Inspector (individual project, PromptWars AI Challenge)
+Technologies: TypeScript, Node.js, Python, Google Gemini, Google GenAI SDK
+GitHub: https://github.com/Chinmay-C12331/ScamSniffer_
+- Built a web application that inspects job offers, recruiter messages and recruitment URLs across six fraud vectors and returns risk findings backed by evidence cited from the input.
+- Separated language understanding from scoring: Gemini extracts linguistic evidence while a deterministic rule engine computes an auditable 0‑100% Scam Threat Index; returns "UNABLE_TO_VERIFY" instead of fabricating domain metadata.
+- Repository README documents 24 Node.js and 12 Python tests passing, plus an interactive in-app self-test.
+
+EcoTech PU - Campus Resource Intelligence Dashboard (team project, IEEE 5-hour hackathon)
+Technologies: TypeScript, React, Vite, Tailwind CSS, Node.js, Express
+GitHub: https://github.com/Chinmay-C12331/EcoTech_PU
+- Contributed to a team-built dashboard (React, TypeScript, Tailwind CSS, Express) for electricity, water and waste data with baseline comparison, rule-based anomaly detection and CSV ingestion; deviations are framed as investigation triggers, not confirmed waste.
+- Individual contributions: research-driven AI Studio prompting, development and deployment. Features include an explainable 0‑100 priority score (severity, persistence, confidence, effort) and a Measure, Detect, Act, Verify corrective-action workflow.
+- Uses simulated demonstration data, not live sensors; repository README documents 59 passing automated tests.
+
+RAG-Based PDF Chatbot - Individual project
+Technologies: Python, Streamlit, LangChain, ChromaDB, Hugging Face Sentence Transformers, Google Gemini API
+GitHub: https://github.com/Chinmay-C12331/RAG
+- Built a document question-answering app using Retrieval-Augmented Generation: uploaded PDFs are split into 1,000-character chunks with 200-character overlap, embedded with Hugging Face sentence-transformers and stored in ChromaDB.
+- Retrieved the top three chunks to ground Gemini answers in document context, with prompt instructions to state when information is absent, and displayed source page numbers.
+
+AI-Based Password Strength Prediction - Individual research prototype
+Technologies: Python, PyTorch, Deep Learning, Feature Engineering, ONNX
+GitHub: https://github.com/Chinmay-C12331/AI-Based_Password_Strength_Prediction
+- Developed a hybrid password guessability model: a two-layer bidirectional LSTM with additive attention pooling fused with an MLP branch over 22 engineered pattern features, trained with an asymmetric Huber loss to penalize overestimation.
+- Built the data preparation, training and evaluation pipeline and an ONNX INT8 export for client-side inference; validated on synthetic demonstration data only, with no real-world performance claims.
+
+ACHIEVEMENTS AND ACTIVITIES
+- Second Place, Tech Tambola, Technopia, Presidency University (January 2026); two-person team.
+- Participant, PromptWars AI Challenge (GEN AI CLUB, Presidency University and Hack2Skill); built ScamSniffer.
+- Participant, Build with Trea Hackathon (Team Dark Pulse); contributed to a team University Face Attendance System using face recognition.
+- Participant, AWS Core Skills Bootcamp, AWS Student Builder Group, Presidency University (1 September 2026).
+- Completed Model Context Protocol (MCP) Mega Workshop, NxtWave CCBP 4.0 Academy.
