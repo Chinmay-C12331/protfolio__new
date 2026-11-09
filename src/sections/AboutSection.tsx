@@ -35,7 +35,7 @@ export const AboutSection: React.FC = () => {
                   CGPA {PERSONAL_INFO.cgpa}
                 </div>
                 <div className="text-xs font-mono text-slate-400 mt-0.5 tabular-nums">
-                  Expected Graduation: 2028
+                  {PERSONAL_INFO.graduationClass}
                 </div>
               </div>
             </div>

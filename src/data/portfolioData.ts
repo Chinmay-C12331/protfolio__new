@@ -20,18 +20,18 @@ export const PERSONAL_INFO = {
   shortUniversity: 'Presidency University',
   location: 'Bengaluru, Karnataka, India',
   cgpa: '9.27/10',
-  graduationClass: 'Class of 2028',
+  graduationClass: '2024 – Expected 2028',
   relevantCoursework:
     'Essentials of Artificial Intelligence (completed); Machine Learning (currently studying, theory & laboratory; supervised learning module completed)',
   email: 'chinmaychoudhari510@gmail.com',
   githubUrl: 'https://github.com/Chinmay-C12331',
   linkedinUrl: 'https://www.linkedin.com/in/chinmay-choudhari/',
   portfolioUrl: 'https://chinmay-jc.vercel.app',
-  resumePath: '/assets/aistudio/chinmay-resume_40026351.pdf',
+  resumePath: '/assets/aistudio/chinmay-resume_new_19fabab8.pdf',
 };
 
 export const ABOUT_SUMMARY =
-  'Computer Science and Engineering undergraduate (CGPA 9.27/10) with university coursework in AI and Machine Learning and hands-on project experience in Python, LLM integrations and RAG applications. Projects include a Gemini-based scam inspector, a PDF question-answering system and a deep learning research prototype. Seeking Software Engineering, AI/ML and Generative AI internships.';
+  'Computer Science and Engineering undergraduate (CGPA 9.27/10) seeking an AI/ML Intern role, with university coursework in AI and Machine Learning and hands-on project experience in Python, LLM integrations and RAG applications. Projects include a Gemini-based scam inspector, a PDF question-answering system and a deep learning research prototype.';
 
 export const HOLOGRAPHIC_NODES: HolographicNodeInfo[] = [
   {
@@ -356,7 +356,7 @@ export const EXPERIENCE_ITEMS: ExperienceItem[] = [
     id: 'inamigos-foundation',
     role: 'Web Development Intern',
     organization: 'InAmigos Foundation',
-    dates: 'May 13 – 26, 2026',
+    dates: 'May 13, 2026 – May 26, 2026',
     duration: '14-Day Internship',
     summary:
       'Focused two-week web development and UI/UX contribution sprint improving NGO web content and layouts.',
