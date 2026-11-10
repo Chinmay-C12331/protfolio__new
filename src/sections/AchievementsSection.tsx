@@ -14,12 +14,14 @@ export const AchievementsSection: React.FC<AchievementsSectionProps> = ({
     <section id="achievements" className="py-16 sm:py-20 border-t border-slate-800/70">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-2xl">
-          <div className="text-xs font-mono text-cyan-400 mb-2">05. Achievements &amp; Activities</div>
+          <div className="text-xs font-mono text-cyan-400 mb-2">
+            05. Certifications, Achievements &amp; Activities
+          </div>
           <h2
             className="font-display text-2xl sm:text-3xl font-bold text-white tracking-tight"
             style={{ textWrap: 'balance' }}
           >
-            Awards, Hackathons &amp; Workshops
+            Certifications, Awards &amp; Hackathons
           </h2>
         </div>
 
@@ -31,7 +33,9 @@ export const AchievementsSection: React.FC<AchievementsSectionProps> = ({
               : undefined;
 
             const categoryTone =
-              item.category === 'Award'
+              item.category === 'Certification'
+                ? 'text-emerald-300'
+                : item.category === 'Award'
                 ? 'text-cyan-300'
                 : item.category === 'Hackathon / Challenge'
                 ? 'text-violet-300'

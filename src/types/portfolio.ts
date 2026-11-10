@@ -55,6 +55,7 @@ export interface ExperienceItem {
 }
 
 export type AchievementCategory =
+  | 'Certification'
   | 'Award'
   | 'Hackathon / Challenge'
   | 'Workshop & Participation';

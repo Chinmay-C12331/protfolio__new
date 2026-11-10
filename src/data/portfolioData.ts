@@ -13,7 +13,7 @@ export const PERSONAL_INFO = {
   initials: 'CC',
   roleLine: 'Software Development | AI/ML | Generative AI',
   heroIntro:
-    'Computer Science and Engineering undergraduate (CGPA 9.27/10) with university coursework in AI and Machine Learning and hands-on project experience in Python, LLM integrations and RAG applications.',
+    'Computer Science and Engineering undergraduate (CGPA 9.27/10) seeking an AI/ML Intern role, with AI/ML coursework and project experience in Python, LLM integrations and RAG applications.',
   availabilityStatus: 'Open to Internship Opportunities',
   degree: 'B.Tech in Computer Science and Engineering',
   university: 'Presidency University, Bengaluru',
@@ -27,11 +27,11 @@ export const PERSONAL_INFO = {
   githubUrl: 'https://github.com/Chinmay-C12331',
   linkedinUrl: 'https://www.linkedin.com/in/chinmay-choudhari/',
   portfolioUrl: 'https://chinmay-jc.vercel.app',
-  resumePath: '/assets/aistudio/chinmay-resume_new_19fabab8.pdf',
+  resumePath: '/assets/aistudio/chinmay-resume__2__b3dd5770.pdf',
 };
 
 export const ABOUT_SUMMARY =
-  'Computer Science and Engineering undergraduate (CGPA 9.27/10) seeking an AI/ML Intern role, with university coursework in AI and Machine Learning and hands-on project experience in Python, LLM integrations and RAG applications. Projects include a Gemini-based scam inspector, a PDF question-answering system and a deep learning research prototype.';
+  'Computer Science and Engineering undergraduate (CGPA 9.27/10) seeking an AI/ML Intern role, with AI/ML coursework and project experience in Python, LLM integrations and RAG applications.';
 
 export const HOLOGRAPHIC_NODES: HolographicNodeInfo[] = [
   {
@@ -370,6 +370,16 @@ export const EXPERIENCE_ITEMS: ExperienceItem[] = [
 ];
 
 export const ACHIEVEMENT_ITEMS: AchievementItem[] = [
+  {
+    id: 'nptel-genai',
+    title: 'Programming with Generative AI — NPTEL (IISc Bengaluru)',
+    eventOrOrganizer: 'NPTEL · IISc Bengaluru',
+    date: 'August – October 2026',
+    category: 'Certification',
+    badgeText: 'ELITE Certification · Score: 60% · 3 Credits Recommended',
+    summary:
+      'Earned NPTEL ELITE Certification in Programming with Generative AI (IISc Bengaluru) with a score of 60% and 3 credits recommended.',
+  },
   {
     id: 'tech-tambola',
     title: 'Second Place — Tech Tambola',
